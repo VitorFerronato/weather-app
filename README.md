@@ -1,32 +1,30 @@
-# vue-project
+# expense-tracker
+<p align="center">
+  <img src="https://github.com/VitorFerronato/weather-app/assets/94748997/16128ed4-4ed4-4d4d-b626-d9aae7ed2df4" alt="Expense Tracker" width="300"/>
+</p>
 
-This template should help get you started developing with Vue 3 in Vite.
-![image](https://github.com/VitorFerronato/weather-app/assets/94748997/16128ed4-4ed4-4d4d-b626-d9aae7ed2df4)
+
+## Description
+
+Weather Watcher is a user-friendly web application designed to provide detailed weather information for any city around the globe.
 
 
+## 🚀 Features
 
-## Recommended IDE Setup
+- Search for Cities: Easily search for any city worldwide to get real-time weather data.
+- Current Weather: View comprehensive current weather conditions, including temperature, humidity, wind speed, and more.
+- Weekly Forecast: Access a detailed weather forecast for the next seven days.
+- Add to Watchlist: Save your favorite cities to a watchlist for quick and easy access from the home page.
+- Manage Watchlist: Remove cities from your watchlist as needed to keep your monitoring list up-to-date.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## 💻 Technologies Used
 
-## Customize configuration
+- **Vue.js**: The project is developed using Vue.js, providing a dynamic and reactive user interface.
+- **Tailwind CSS**: Tailwind CSS is used for styling, offering a highly customizable design framework.
+- **OpenWeather API**: The application integrates with the OpenWeather API to fetch real-time and forecasted weather data.
+- **Axios**: Axios is utilized for making API requests, ensuring smooth data retrieval and handling.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- ## Deploy
+- [Sky Alerts Live](https://skyalerts.netlify.app/)
 
-## Project Setup
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
