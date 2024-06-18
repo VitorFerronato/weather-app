@@ -1,6 +1,8 @@
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
+![image](https://github.com/VitorFerronato/weather-app/assets/94748997/92a2920c-13ae-4a1d-9abe-bfc8e4314380)
+
 
 ## Recommended IDE Setup
 
